@@ -1,0 +1,785 @@
+[09:12:43.045] [INF] Using game files from: D:\Subnautica
+[09:12:47.979] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[09:12:47.979] [INF] Loading world with seed TCCBIBZXAB
+[09:12:47.989] [DBG] Event Triggerer started!
+[09:12:48.145] [INF] Server is listening on port 11000 UDP
+[09:12:48.145] [INF] Using PROTOBUF as save file serializer
+[09:12:48.145] [INF] Server Password: "**********************"
+[09:12:48.145] [INF] Admin Password: "**************"
+[09:12:48.145] [INF] Autosave: ENABLED (2 min)
+[09:12:48.145] [INF] World GameMode: SURVIVAL
+[09:12:48.150] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[09:12:48.150] [INF] Server has paused
+[09:12:48.150] [INF] Server is waiting for players!
+[09:12:48.150] [INF] To get help for commands, run help in console or /help in chatbox
+[09:13:51.128] [INF] Exiting ...
+[09:13:51.128] [INF] Nitrox Server Stopping...
+[09:13:51.149] [INF] World state saved.
+[09:13:51.158] [INF] Nitrox Server Stopped
+[11:50:57.585] [INF] Using game files from: D:\Subnautica
+[11:51:00.085] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[11:51:00.085] [INF] Loading world with seed TCCBIBZXAB
+[11:51:00.095] [DBG] Event Triggerer started!
+[11:51:00.215] [INF] Server is listening on port 11000 UDP
+[11:51:00.215] [INF] Using PROTOBUF as save file serializer
+[11:51:00.215] [INF] Server Password: "**********************"
+[11:51:00.215] [INF] Admin Password: "**************"
+[11:51:00.215] [INF] Autosave: ENABLED (2 min)
+[11:51:00.215] [INF] World GameMode: SURVIVAL
+[11:51:00.215] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[11:51:00.225] [INF] Server has paused
+[11:51:00.225] [INF] Server is waiting for players!
+[11:51:00.225] [INF] To get help for commands, run help in console or /help in chatbox
+[11:51:31.670] [DBG] Added surrogate ColorSurrogate for type UnityEngine.Color
+[11:51:31.671] [DBG] Added surrogate QuaternionSurrogate for type UnityEngine.Quaternion
+[11:51:31.671] [DBG] Added surrogate TechTypeSurrogate for type NitroxModel.DataStructures.GameLogic.NitroxTechType
+[11:51:31.671] [DBG] Added surrogate Vector3Surrogate for type UnityEngine.Vector3
+[11:51:31.861] [INF] Providing session policies...
+[11:52:04.702] [INF] Processing reservation request from Max
+[11:52:04.704] [INF] Reservation processed successfully: Username: Max - ReservationState: RESERVED - ReservationKey: 077e5444-98a0-4b17-ac94-132f72b56d26
+[11:52:25.635] [INF] Server has resumed
+[11:52:25.900] [DBG] Received inventory item 89305e09-9d9d-4f80-9129-936774f21f2d to container ec6ad56c-42a7-4806-8f2a-06d699d9e43c. Total items: 1
+[11:52:25.901] [DBG] Received inventory item 81bc25d0-8a37-46e5-8edc-783639d4e547 to container ec6ad56c-42a7-4806-8f2a-06d699d9e43c. Total items: 2
+[11:52:25.901] [DBG] Received inventory item 4e6735ed-bc43-4317-800c-9b06c502d627 to container ec6ad56c-42a7-4806-8f2a-06d699d9e43c. Total items: 3
+[11:52:25.902] [DBG] Received inventory item 77307fad-e0cd-43f9-8ce6-6350b73c9d1a to container ec6ad56c-42a7-4806-8f2a-06d699d9e43c. Total items: 4
+[11:52:25.905] [DBG] Received inventory item a896f948-8dc2-4e5a-b93b-6131edc45664 to container ec6ad56c-42a7-4806-8f2a-06d699d9e43c. Total items: 5
+[11:52:25.906] [DBG] Received inventory item 2e8be346-f420-4b9d-a42f-536c6a731502 to container ec6ad56c-42a7-4806-8f2a-06d699d9e43c. Total items: 6
+[11:52:25.930] [DBG] [EscapePodChanged - PlayerId: 1 SubRootId: Optional Contains: e4693ecb-c6ba-4dfa-ac77-f6049345e0f4]
+[11:52:34.977] [DBG] [EscapePodChanged - PlayerId: 1 SubRootId: Optional Contains: Nothing]
+[11:52:47.569] [INF] Server has paused
+[11:52:47.606] [INF] World state saved.
+[11:53:31.254] [INF] Exiting ...
+[11:53:31.254] [INF] Nitrox Server Stopping...
+[11:53:31.264] [INF] World state saved.
+[11:53:31.274] [INF] Nitrox Server Stopped
+[11:53:36.082] [INF] Using game files from: D:\Subnautica
+[11:53:38.604] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[11:53:38.604] [INF] Loading world with seed TCCBIBZXAB
+[11:53:38.614] [DBG] Event Triggerer started!
+[11:53:38.734] [INF] Server is listening on port 11000 UDP
+[11:53:38.734] [INF] Using PROTOBUF as save file serializer
+[11:53:38.734] [INF] Server Password: "**********************"
+[11:53:38.734] [INF] Admin Password: "**************"
+[11:53:38.734] [INF] Autosave: ENABLED (2 min)
+[11:53:38.734] [INF] World GameMode: SURVIVAL
+[11:53:38.744] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[11:53:38.744] [INF] Server has paused
+[11:53:38.744] [INF] Server is waiting for players!
+[11:53:38.744] [INF] To get help for commands, run help in console or /help in chatbox
+[11:54:00.192] [DBG] Added surrogate ColorSurrogate for type UnityEngine.Color
+[11:54:00.192] [DBG] Added surrogate QuaternionSurrogate for type UnityEngine.Quaternion
+[11:54:00.193] [DBG] Added surrogate TechTypeSurrogate for type NitroxModel.DataStructures.GameLogic.NitroxTechType
+[11:54:00.193] [DBG] Added surrogate Vector3Surrogate for type UnityEngine.Vector3
+[11:54:00.316] [INF] Providing session policies...
+[11:54:02.899] [INF] Processing reservation request from Max
+[11:54:02.900] [INF] Reservation processed successfully: Username: Max - ReservationState: RESERVED - ReservationKey: c9b268b6-5286-47d6-996c-5b7a74392b2d
+[11:54:23.858] [INF] Server has resumed
+[11:54:24.084] [DBG] Received inventory item 630d0326-d5a1-44e1-85e5-03bfa0b8323c to container d618134b-56ae-4fbd-9c28-c5f21099f54c. Total items: 1
+[11:54:24.084] [DBG] Received inventory item 1bd96243-5866-447f-9cd9-f497bd3d279d to container d618134b-56ae-4fbd-9c28-c5f21099f54c. Total items: 2
+[11:54:24.085] [DBG] Received inventory item 1c1153d1-1e11-4f0e-b4a6-cc01cf081053 to container d618134b-56ae-4fbd-9c28-c5f21099f54c. Total items: 3
+[11:54:24.085] [DBG] Received inventory item b17ed9d3-a326-4cc3-8435-87e8fa009883 to container d618134b-56ae-4fbd-9c28-c5f21099f54c. Total items: 4
+[11:54:24.088] [DBG] Received inventory item 3d6fd27b-cb41-4b69-ae76-0dd39aa371b4 to container d618134b-56ae-4fbd-9c28-c5f21099f54c. Total items: 5
+[11:54:24.089] [DBG] Received inventory item 8687206c-c5ff-4bee-a4ec-ba36fc28816f to container d618134b-56ae-4fbd-9c28-c5f21099f54c. Total items: 6
+[11:54:24.114] [DBG] [EscapePodChanged - PlayerId: 1 SubRootId: Optional Contains: 8e0f0efd-374f-4b07-ab34-c80271bab30f]
+[11:54:33.716] [DBG] [EscapePodChanged - PlayerId: 1 SubRootId: Optional Contains: Nothing]
+[11:54:47.705] [INF] Server has paused
+[11:54:47.732] [INF] World state saved.
+[11:54:53.225] [INF] Exiting ...
+[11:54:53.225] [INF] Nitrox Server Stopping...
+[11:54:53.225] [INF] World state saved.
+[11:54:53.245] [INF] Nitrox Server Stopped
+[11:55:01.771] [INF] Using game files from: D:\Subnautica
+[11:55:04.372] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[11:55:04.374] [INF] Loading world with seed TCCBIBZXAB
+[11:55:04.383] [DBG] Event Triggerer started!
+[11:55:04.513] [INF] Server is listening on port 11000 UDP
+[11:55:04.513] [INF] Using PROTOBUF as save file serializer
+[11:55:04.515] [INF] Server Password: "**********************"
+[11:55:04.516] [INF] Admin Password: "**************"
+[11:55:04.516] [INF] Autosave: ENABLED (2 min)
+[11:55:04.516] [INF] World GameMode: SURVIVAL
+[11:55:04.519] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[11:55:04.520] [INF] Server has paused
+[11:55:04.520] [INF] Server is waiting for players!
+[11:55:04.520] [INF] To get help for commands, run help in console or /help in chatbox
+[11:59:38.722] [INF] Nitrox Server Stopping...
+[11:59:38.751] [INF] World state saved.
+[11:59:38.761] [INF] Nitrox Server Stopped
+[11:59:40.859] [INF] Using game files from: D:\Subnautica
+[11:59:43.436] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[11:59:43.438] [INF] Loading world with seed TCCBIBZXAB
+[11:59:43.448] [DBG] Event Triggerer started!
+[11:59:43.571] [INF] Server is listening on port 11000 UDP
+[11:59:43.571] [INF] Using PROTOBUF as save file serializer
+[11:59:43.573] [INF] Server Password: "**********************"
+[11:59:43.574] [INF] Admin Password: "**************"
+[11:59:43.574] [INF] Autosave: ENABLED (2 min)
+[11:59:43.574] [INF] World GameMode: SURVIVAL
+[11:59:43.576] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[11:59:43.576] [INF] Server has paused
+[11:59:43.576] [INF] Server is waiting for players!
+[11:59:43.577] [INF] To get help for commands, run help in console or /help in chatbox
+[12:00:08.774] [INF] Nitrox Server Stopping...
+[12:00:08.795] [INF] World state saved.
+[12:00:08.801] [INF] Nitrox Server Stopped
+[12:00:34.102] [INF] Using game files from: D:\Subnautica
+[12:00:36.744] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[12:00:36.746] [INF] Loading world with seed TCCBIBZXAB
+[12:00:36.756] [DBG] Event Triggerer started!
+[12:00:36.877] [INF] Server is listening on port 11000 UDP
+[12:00:36.877] [INF] Using PROTOBUF as save file serializer
+[12:00:36.878] [INF] Server Password: "**********************"
+[12:00:36.880] [INF] Admin Password: "**************"
+[12:00:36.880] [INF] Autosave: ENABLED (2 min)
+[12:00:36.880] [INF] World GameMode: SURVIVAL
+[12:00:36.881] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[12:00:36.882] [INF] Server has paused
+[12:00:36.882] [INF] Server is waiting for players!
+[12:00:36.882] [INF] To get help for commands, run help in console or /help in chatbox
+[12:01:15.313] [INF] Nitrox Server Stopping...
+[12:01:15.335] [INF] World state saved.
+[12:01:15.339] [INF] Nitrox Server Stopped
+[12:01:16.959] [INF] Using game files from: D:\Subnautica
+[12:01:19.518] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[12:01:19.520] [INF] Loading world with seed TCCBIBZXAB
+[12:01:19.530] [DBG] Event Triggerer started!
+[12:01:19.651] [INF] Server is listening on port 11000 UDP
+[12:01:19.651] [INF] Using PROTOBUF as save file serializer
+[12:01:19.652] [INF] Server Password: "**********************"
+[12:01:19.654] [INF] Admin Password: "**************"
+[12:01:19.654] [INF] Autosave: ENABLED (2 min)
+[12:01:19.654] [INF] World GameMode: SURVIVAL
+[12:01:19.656] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[12:01:19.656] [INF] Server has paused
+[12:01:19.656] [INF] Server is waiting for players!
+[12:01:19.657] [INF] To get help for commands, run help in console or /help in chatbox
+[12:02:12.114] [INF] World state saved.
+[12:02:37.082] [DBG] Added surrogate ColorSurrogate for type UnityEngine.Color
+[12:02:37.082] [DBG] Added surrogate QuaternionSurrogate for type UnityEngine.Quaternion
+[12:02:37.082] [DBG] Added surrogate TechTypeSurrogate for type NitroxModel.DataStructures.GameLogic.NitroxTechType
+[12:02:37.082] [DBG] Added surrogate Vector3Surrogate for type UnityEngine.Vector3
+[12:02:37.204] [INF] Providing session policies...
+[12:02:40.161] [INF] Processing reservation request from Max
+[12:02:40.163] [INF] Reservation processed successfully: Username: Max - ReservationState: RESERVED - ReservationKey: 98716c6f-0f81-47c0-b89c-c436f6914b4a
+[12:03:01.213] [INF] Server has resumed
+[12:03:01.469] [DBG] Received inventory item 5cb9006a-90bc-40de-a43b-6f65ef25fa1c to container 65c91798-428f-4ae9-b621-a51143cfe883. Total items: 1
+[12:03:01.469] [DBG] Received inventory item bfa7f506-6714-4a35-a09c-b5a3cddbdb93 to container 65c91798-428f-4ae9-b621-a51143cfe883. Total items: 2
+[12:03:01.470] [DBG] Received inventory item c9b06d1a-e9dc-46ab-b1c1-4cf833b6610b to container 65c91798-428f-4ae9-b621-a51143cfe883. Total items: 3
+[12:03:01.471] [DBG] Received inventory item cf369aee-1ee0-44cc-ae48-939b9bfdad2c to container 65c91798-428f-4ae9-b621-a51143cfe883. Total items: 4
+[12:03:01.476] [DBG] Received inventory item 0b059ec8-4c50-4f2d-9bae-6512c2ce289e to container 65c91798-428f-4ae9-b621-a51143cfe883. Total items: 5
+[12:03:01.476] [DBG] Received inventory item d5e78ed3-afa8-4009-8906-38dad84c82b6 to container 65c91798-428f-4ae9-b621-a51143cfe883. Total items: 6
+[12:03:01.501] [DBG] [EscapePodChanged - PlayerId: 1 SubRootId: Optional Contains: 142c5b8f-23d0-4169-9a1f-54195c9a8489]
+[12:03:09.266] [DBG] Received inventory item a825f8ae-46be-40f8-9fe8-6be8e2aeecb7 to container 65c91798-428f-4ae9-b621-a51143cfe883. Total items: 7
+[12:03:13.101] [DBG] Received inventory item a825f8ae-46be-40f8-9fe8-6be8e2aeecb7 to container 3233e1a8-d274-46f0-a0f6-f1a7d0da313d. Total items: 7
+[12:03:13.621] [DBG] Received inventory item 0b059ec8-4c50-4f2d-9bae-6512c2ce289e to container 3233e1a8-d274-46f0-a0f6-f1a7d0da313d. Total items: 7
+[12:03:13.748] [DBG] Received inventory item d5e78ed3-afa8-4009-8906-38dad84c82b6 to container 3233e1a8-d274-46f0-a0f6-f1a7d0da313d. Total items: 7
+[12:03:13.865] [DBG] Received inventory item 5cb9006a-90bc-40de-a43b-6f65ef25fa1c to container 3233e1a8-d274-46f0-a0f6-f1a7d0da313d. Total items: 7
+[12:03:13.993] [DBG] Received inventory item bfa7f506-6714-4a35-a09c-b5a3cddbdb93 to container 3233e1a8-d274-46f0-a0f6-f1a7d0da313d. Total items: 7
+[12:03:14.326] [DBG] Received inventory item c9b06d1a-e9dc-46ab-b1c1-4cf833b6610b to container 3233e1a8-d274-46f0-a0f6-f1a7d0da313d. Total items: 7
+[12:03:14.453] [DBG] Received inventory item cf369aee-1ee0-44cc-ae48-939b9bfdad2c to container 3233e1a8-d274-46f0-a0f6-f1a7d0da313d. Total items: 7
+[12:03:17.334] [DBG] Using default packet processor for: [MedicalCabinetClicked id: 2fec2928-5794-4aac-834b-a2aad569edbf DoorOpen: True HasMedKit: True NextSpawnTime: 480.0419] and player 1
+[12:03:17.517] [DBG] Using default packet processor for: [MedicalCabinetClicked id: 2fec2928-5794-4aac-834b-a2aad569edbf DoorOpen: True HasMedKit: False NextSpawnTime: -9602.354] and player 1
+[12:03:17.525] [DBG] Received inventory item 74b7dc37-3040-4f01-a20d-1d2c4e27fd8e to container 65c91798-428f-4ae9-b621-a51143cfe883. Total items: 8
+[12:03:27.894] [INF] World state saved.
+[12:03:31.972] [INF] Server has paused
+[12:03:31.983] [INF] World state saved.
+[12:03:38.832] [INF] World state saved.
+[12:03:54.941] [INF] Nitrox Server Stopping...
+[12:03:54.944] [INF] World state saved.
+[12:03:54.958] [INF] Nitrox Server Stopped
+[12:04:01.741] [INF] Using game files from: D:\Subnautica
+[12:04:04.314] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[12:04:04.316] [INF] Loading world with seed TCCBIBZXAB
+[12:04:04.326] [DBG] Event Triggerer started!
+[12:04:04.448] [INF] Server is listening on port 11000 UDP
+[12:04:04.448] [INF] Using PROTOBUF as save file serializer
+[12:04:04.449] [INF] Server Password: "**********************"
+[12:04:04.451] [INF] Admin Password: "**************"
+[12:04:04.451] [INF] Autosave: ENABLED (2 min)
+[12:04:04.451] [INF] World GameMode: SURVIVAL
+[12:04:04.452] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[12:04:04.453] [INF] Server has paused
+[12:04:04.453] [INF] Server is waiting for players!
+[12:04:04.453] [INF] To get help for commands, run help in console or /help in chatbox
+[12:04:17.848] [INF] Exiting ...
+[12:04:17.849] [INF] Nitrox Server Stopping...
+[12:04:17.872] [INF] World state saved.
+[12:04:17.885] [INF] Nitrox Server Stopped
+[12:06:48.761] [INF] Using game files from: D:\Subnautica
+[12:06:51.362] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[12:06:51.364] [INF] Loading world with seed TCCBIBZXAB
+[12:06:51.375] [DBG] Event Triggerer started!
+[12:06:51.499] [INF] Server is listening on port 11000 UDP
+[12:06:51.499] [INF] Using PROTOBUF as save file serializer
+[12:06:51.501] [INF] Server Password: "**********************"
+[12:06:51.503] [INF] Admin Password: "**************"
+[12:06:51.503] [INF] Autosave: ENABLED (2 min)
+[12:06:51.503] [INF] World GameMode: SURVIVAL
+[12:06:51.504] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[12:06:51.505] [INF] Server has paused
+[12:06:51.505] [INF] Server is waiting for players!
+[12:06:51.505] [INF] To get help for commands, run help in console or /help in chatbox
+[12:10:29.155] [INF] Exiting ...
+[12:10:29.155] [INF] Nitrox Server Stopping...
+[12:10:29.176] [INF] World state saved.
+[12:10:29.188] [INF] Nitrox Server Stopped
+[12:12:34.966] [INF] Using game files from: D:\Subnautica
+[12:12:37.568] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[12:12:37.570] [INF] Loading world with seed TCCBIBZXAB
+[12:12:37.581] [DBG] Event Triggerer started!
+[12:12:37.705] [INF] Server is listening on port 11000 UDP
+[12:12:37.705] [INF] Using PROTOBUF as save file serializer
+[12:12:37.706] [INF] Server Password: "**********************"
+[12:12:37.708] [INF] Admin Password: "**************"
+[12:12:37.708] [INF] Autosave: ENABLED (2 min)
+[12:12:37.708] [INF] World GameMode: SURVIVAL
+[12:12:37.710] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[12:12:37.710] [INF] Server has paused
+[12:12:37.710] [INF] Server is waiting for players!
+[12:12:37.711] [INF] To get help for commands, run help in console or /help in chatbox
+[12:12:48.636] [INF] Exiting ...
+[12:12:48.636] [INF] Nitrox Server Stopping...
+[12:12:48.659] [INF] World state saved.
+[12:12:48.670] [INF] Nitrox Server Stopped
+[12:20:14.948] [INF] Using game files from: D:\Subnautica
+[12:20:17.595] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[12:20:17.597] [INF] Loading world with seed TCCBIBZXAB
+[12:20:17.607] [DBG] Event Triggerer started!
+[12:20:17.732] [INF] Server is listening on port 11000 UDP
+[12:20:17.732] [INF] Using PROTOBUF as save file serializer
+[12:20:17.734] [INF] Server Password: "**********************"
+[12:20:17.735] [INF] Admin Password: "**************"
+[12:20:17.735] [INF] Autosave: ENABLED (2 min)
+[12:20:17.735] [INF] World GameMode: SURVIVAL
+[12:20:17.737] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[12:20:17.738] [INF] Server has paused
+[12:20:17.738] [INF] Server is waiting for players!
+[12:20:17.738] [INF] To get help for commands, run help in console or /help in chatbox
+[12:20:55.547] [INF] Exiting ...
+[12:20:55.547] [INF] Nitrox Server Stopping...
+[12:20:55.570] [INF] World state saved.
+[12:20:55.597] [INF] Nitrox Server Stopped
+[12:21:17.446] [INF] Using game files from: D:\Subnautica
+[12:21:20.030] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[12:21:20.032] [INF] Loading world with seed TCCBIBZXAB
+[12:21:20.042] [DBG] Event Triggerer started!
+[12:21:20.168] [INF] Server is listening on port 11000 UDP
+[12:21:20.168] [INF] Using PROTOBUF as save file serializer
+[12:21:20.169] [INF] Server Password: "**********************"
+[12:21:20.171] [INF] Admin Password: "**************"
+[12:21:20.171] [INF] Autosave: ENABLED (2 min)
+[12:21:20.171] [INF] World GameMode: SURVIVAL
+[12:21:20.173] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[12:21:20.173] [INF] Server has paused
+[12:21:20.173] [INF] Server is waiting for players!
+[12:21:20.174] [INF] To get help for commands, run help in console or /help in chatbox
+[12:21:36.228] [INF] Command Not Found: ip
+[12:21:39.371] [INF] Command Not Found: IP
+[12:21:43.471] [INF] whois {name}                     - Shows informations over a player
+[12:21:43.471] [INF] warp {name} [name]               - Allows to teleport players
+[12:21:43.471] [INF] upgrade                          - Upgrades the save file to the next version
+[12:21:43.471] [INF] tp/teleport {x} {y} {z}          - Teleports you on a location
+[12:21:43.471] [INF] time [day/night]                 - Changes the map time
+[12:21:43.471] [INF] swapSerializer                   - Swaps the world data serializer
+[12:21:43.471] [INF] summary                          - Shows persisted data
+[12:21:43.471] [INF] stop/exit/halt/quit              - Stops the server
+[12:21:43.471] [INF] save                             - Saves the map
+[12:21:43.471] [INF] restart                          - Restarts the server
+[12:21:43.471] [INF] op {name}                        - Sets an user as admin
+[12:21:43.471] [INF] msg/m/whisper/w {name} {msg}     - Sends a private message to a player
+[12:21:43.471] [INF] login {password}                 - Log in to server as admin (requires password)
+[12:21:43.471] [INF] loadbatch {x} {y} {z}            - Loads entities at x y z
+[12:21:43.471] [INF] list                             - Shows who's online
+[12:21:43.471] [INF] kick {name} [reason]             - Kicks a player from the server
+[12:21:43.471] [INF] help/?                           - Displays this
+[12:21:43.471] [INF] directory/dir                    - Opens the directory of the main program
+[12:21:43.471] [INF] deop {name}                      - Removes admin rights from user
+[12:21:43.471] [INF] debugstartmap                    - warning: spawns blocks
+[12:21:43.471] [INF] config                           - Opens the server configuration file
+[12:21:43.471] [INF] changeserverpassword [password]  - Changes server password. Clear it without argument
+[12:21:43.471] [INF] changeservergamemode {gamemode}  - Changes server gamemode
+[12:21:43.471] [INF] changeadminpassword {password}   - Changes admin password
+[12:21:43.471] [INF] broadcast/say {message}          - Broadcasts a message on the server
+[12:21:43.471] [INF] back                             - Teleports you back on your last location
+[12:21:43.471] [INF] autosave {on/off}                - Toggles the map autosave
+[12:23:30.093] [INF] Admin password changed to "***********************" by "SERVER"
+[12:23:38.520] [INF] Nitrox Server Stopping...
+[12:23:38.546] [INF] World state saved.
+[12:23:38.574] [INF] Nitrox Server Stopped
+[12:23:39.934] [INF] Using game files from: D:\Subnautica
+[12:23:42.428] [WRN] Property or field lue does not exist on type NitroxServer.Serialization.ServerConfig!
+[12:23:42.539] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[12:23:42.541] [INF] Loading world with seed TCCBIBZXAB
+[12:23:42.551] [DBG] Event Triggerer started!
+[12:23:42.676] [INF] Server is listening on port 11000 UDP
+[12:23:42.677] [INF] Using PROTOBUF as save file serializer
+[12:23:42.678] [INF] Server Password: "**********************"
+[12:23:42.680] [INF] Admin Password: "**************"
+[12:23:42.680] [INF] Autosave: ENABLED (2 min)
+[12:23:42.680] [INF] World GameMode: SURVIVAL
+[12:23:42.682] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[12:23:42.682] [INF] Server has paused
+[12:23:42.682] [INF] Server is waiting for players!
+[12:23:42.683] [INF] To get help for commands, run help in console or /help in chatbox
+[12:34:01.570] [INF] Nitrox Server Stopping...
+[12:34:01.605] [INF] World state saved.
+[12:34:01.609] [INF] Nitrox Server Stopped
+[13:46:46.553] [INF] Using game files from: D:\Subnautica
+[13:46:51.094] [WRN] Property or field lue does not exist on type NitroxServer.Serialization.ServerConfig!
+[13:46:51.332] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[13:46:51.334] [INF] Loading world with seed TCCBIBZXAB
+[13:46:51.343] [DBG] Event Triggerer started!
+[13:46:51.528] [INF] Server is listening on port 11000 UDP
+[13:46:51.528] [INF] Using PROTOBUF as save file serializer
+[13:46:51.530] [INF] Server Password: "**********************"
+[13:46:51.531] [INF] Admin Password: "**************"
+[13:46:51.531] [INF] Autosave: ENABLED (2 min)
+[13:46:51.531] [INF] World GameMode: SURVIVAL
+[13:46:51.533] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[13:46:51.533] [INF] Server has paused
+[13:46:51.533] [INF] Server is waiting for players!
+[13:46:51.534] [INF] To get help for commands, run help in console or /help in chatbox
+[13:52:16.601] [INF] Exiting ...
+[13:52:16.601] [INF] Nitrox Server Stopping...
+[13:52:16.621] [INF] World state saved.
+[13:52:16.623] [INF] Nitrox Server Stopped
+[13:52:33.431] [INF] Using game files from: D:\Subnautica
+[13:52:35.903] [WRN] Property or field lue does not exist on type NitroxServer.Serialization.ServerConfig!
+[13:52:36.008] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[13:52:36.010] [INF] Loading world with seed TCCBIBZXAB
+[13:52:36.019] [DBG] Event Triggerer started!
+[13:52:36.137] [INF] Server is listening on port 11000 UDP
+[13:52:36.137] [INF] Using PROTOBUF as save file serializer
+[13:52:36.138] [INF] Server Password: "**********************"
+[13:52:36.139] [INF] Admin Password: "**************"
+[13:52:36.140] [INF] Autosave: ENABLED (2 min)
+[13:52:36.140] [INF] World GameMode: SURVIVAL
+[13:52:36.141] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[13:52:36.142] [INF] Server has paused
+[13:52:36.142] [INF] Server is waiting for players!
+[13:52:36.142] [INF] To get help for commands, run help in console or /help in chatbox
+[13:52:59.726] [INF] Exiting ...
+[13:52:59.726] [INF] Nitrox Server Stopping...
+[13:52:59.746] [INF] World state saved.
+[13:52:59.756] [INF] Nitrox Server Stopped
+[13:53:11.846] [INF] Using game files from: D:\Subnautica
+[13:53:14.321] [WRN] Property or field lue does not exist on type NitroxServer.Serialization.ServerConfig!
+[13:53:14.429] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[13:53:14.431] [INF] Loading world with seed TCCBIBZXAB
+[13:53:14.441] [DBG] Event Triggerer started!
+[13:53:14.561] [INF] Server is listening on port 11000 UDP
+[13:53:14.561] [INF] Using PROTOBUF as save file serializer
+[13:53:14.562] [INF] Server Password: "**********************"
+[13:53:14.564] [INF] Admin Password: "**************"
+[13:53:14.564] [INF] Autosave: ENABLED (2 min)
+[13:53:14.564] [INF] World GameMode: SURVIVAL
+[13:53:14.565] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[13:53:14.566] [INF] Server has paused
+[13:53:14.566] [INF] Server is waiting for players!
+[13:53:14.566] [INF] To get help for commands, run help in console or /help in chatbox
+[13:55:42.603] [DBG] Added surrogate ColorSurrogate for type UnityEngine.Color
+[13:55:42.603] [DBG] Added surrogate QuaternionSurrogate for type UnityEngine.Quaternion
+[13:55:42.604] [DBG] Added surrogate TechTypeSurrogate for type NitroxModel.DataStructures.GameLogic.NitroxTechType
+[13:55:42.604] [DBG] Added surrogate Vector3Surrogate for type UnityEngine.Vector3
+[13:55:42.788] [INF] Providing session policies...
+[14:07:53.351] [INF] Providing session policies...
+[14:08:03.509] [INF] Nitrox Server Stopping...
+[14:08:03.529] [INF] World state saved.
+[14:08:03.537] [INF] Nitrox Server Stopped
+[14:16:13.210] [INF] Using game files from: D:\Subnautica
+[14:16:15.695] [WRN] Property or field lue does not exist on type NitroxServer.Serialization.ServerConfig!
+[14:16:15.803] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[14:16:15.805] [INF] Loading world with seed TCCBIBZXAB
+[14:16:15.814] [DBG] Event Triggerer started!
+[14:16:15.933] [INF] Server is listening on port 11000 UDP
+[14:16:15.933] [INF] Using PROTOBUF as save file serializer
+[14:16:15.934] [INF] Server Password: "**********************"
+[14:16:15.936] [INF] Admin Password: "**************"
+[14:16:15.936] [INF] Autosave: ENABLED (2 min)
+[14:16:15.936] [INF] World GameMode: SURVIVAL
+[14:16:15.937] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[14:16:15.938] [INF] Server has paused
+[14:16:15.938] [INF] Server is waiting for players!
+[14:16:15.938] [INF] To get help for commands, run help in console or /help in chatbox
+[14:16:51.819] [DBG] Added surrogate ColorSurrogate for type UnityEngine.Color
+[14:16:51.819] [DBG] Added surrogate QuaternionSurrogate for type UnityEngine.Quaternion
+[14:16:51.819] [DBG] Added surrogate TechTypeSurrogate for type NitroxModel.DataStructures.GameLogic.NitroxTechType
+[14:16:51.819] [DBG] Added surrogate Vector3Surrogate for type UnityEngine.Vector3
+[14:16:51.939] [INF] Providing session policies...
+[14:19:33.442] [INF] whois {name}                     - Shows informations over a player
+[14:19:33.442] [INF] warp {name} [name]               - Allows to teleport players
+[14:19:33.442] [INF] upgrade                          - Upgrades the save file to the next version
+[14:19:33.442] [INF] tp/teleport {x} {y} {z}          - Teleports you on a location
+[14:19:33.442] [INF] time [day/night]                 - Changes the map time
+[14:19:33.442] [INF] swapSerializer                   - Swaps the world data serializer
+[14:19:33.442] [INF] summary                          - Shows persisted data
+[14:19:33.442] [INF] stop/exit/halt/quit              - Stops the server
+[14:19:33.442] [INF] save                             - Saves the map
+[14:19:33.442] [INF] restart                          - Restarts the server
+[14:19:33.442] [INF] op {name}                        - Sets an user as admin
+[14:19:33.442] [INF] msg/m/whisper/w {name} {msg}     - Sends a private message to a player
+[14:19:33.442] [INF] login {password}                 - Log in to server as admin (requires password)
+[14:19:33.442] [INF] loadbatch {x} {y} {z}            - Loads entities at x y z
+[14:19:33.442] [INF] list                             - Shows who's online
+[14:19:33.442] [INF] kick {name} [reason]             - Kicks a player from the server
+[14:19:33.442] [INF] help/?                           - Displays this
+[14:19:33.442] [INF] directory/dir                    - Opens the directory of the main program
+[14:19:33.442] [INF] deop {name}                      - Removes admin rights from user
+[14:19:33.442] [INF] debugstartmap                    - warning: spawns blocks
+[14:19:33.442] [INF] config                           - Opens the server configuration file
+[14:19:33.442] [INF] changeserverpassword [password]  - Changes server password. Clear it without argument
+[14:19:33.442] [INF] changeservergamemode {gamemode}  - Changes server gamemode
+[14:19:33.442] [INF] changeadminpassword {password}   - Changes admin password
+[14:19:33.442] [INF] broadcast/say {message}          - Broadcasts a message on the server
+[14:19:33.442] [INF] back                             - Teleports you back on your last location
+[14:19:33.442] [INF] autosave {on/off}                - Toggles the map autosave
+[14:19:56.855] [INF] 
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[14:20:09.537] [INF] Error: Player not found
+[14:20:24.812] [INF] Exiting ...
+[14:20:24.813] [INF] Nitrox Server Stopping...
+[14:20:24.834] [INF] World state saved.
+[14:20:24.843] [INF] Nitrox Server Stopped
+[14:25:05.984] [INF] Using game files from: D:\Subnautica
+[14:25:08.466] [WRN] Property or field lue does not exist on type NitroxServer.Serialization.ServerConfig!
+[14:25:08.573] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[14:25:08.575] [INF] Loading world with seed TCCBIBZXAB
+[14:25:08.584] [DBG] Event Triggerer started!
+[14:25:08.703] [INF] Server is listening on port 11000 UDP
+[14:25:08.703] [INF] Using PROTOBUF as save file serializer
+[14:25:08.705] [INF] Server Password: "**********************"
+[14:25:08.706] [INF] Admin Password: "**************"
+[14:25:08.706] [INF] Autosave: ENABLED (2 min)
+[14:25:08.706] [INF] World GameMode: SURVIVAL
+[14:25:08.708] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[14:25:08.708] [INF] Server has paused
+[14:25:08.708] [INF] Server is waiting for players!
+[14:25:08.709] [INF] To get help for commands, run help in console or /help in chatbox
+[14:25:34.989] [DBG] Added surrogate ColorSurrogate for type UnityEngine.Color
+[14:25:34.989] [DBG] Added surrogate QuaternionSurrogate for type UnityEngine.Quaternion
+[14:25:34.989] [DBG] Added surrogate TechTypeSurrogate for type NitroxModel.DataStructures.GameLogic.NitroxTechType
+[14:25:34.989] [DBG] Added surrogate Vector3Surrogate for type UnityEngine.Vector3
+[14:25:35.115] [INF] Providing session policies...
+[14:28:10.571] [INF] Exiting ...
+[14:28:10.571] [INF] Nitrox Server Stopping...
+[14:28:10.592] [INF] World state saved.
+[14:28:10.597] [INF] Nitrox Server Stopped
+[14:28:31.673] [INF] Using game files from: D:\Subnautica
+[14:28:34.135] [WRN] Property or field lue does not exist on type NitroxServer.Serialization.ServerConfig!
+[14:28:34.241] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[14:28:34.243] [INF] Loading world with seed TCCBIBZXAB
+[14:28:34.252] [DBG] Event Triggerer started!
+[14:28:34.371] [INF] Server is listening on port 11000 UDP
+[14:28:34.371] [INF] Using PROTOBUF as save file serializer
+[14:28:34.373] [INF] Server Password: "**********************"
+[14:28:34.374] [INF] Admin Password: "**************"
+[14:28:34.374] [INF] Autosave: ENABLED (2 min)
+[14:28:34.374] [INF] World GameMode: SURVIVAL
+[14:28:34.376] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[14:28:34.376] [INF] Server has paused
+[14:28:34.376] [INF] Server is waiting for players!
+[14:28:34.377] [INF] To get help for commands, run help in console or /help in chatbox
+[14:29:38.688] [INF] Exiting ...
+[14:29:38.688] [INF] Nitrox Server Stopping...
+[14:29:38.716] [INF] World state saved.
+[14:29:38.718] [INF] Nitrox Server Stopped
+[15:24:21.091] [INF] Using game files from: D:\Subnautica
+[15:24:23.601] [WRN] Property or field lue does not exist on type NitroxServer.Serialization.ServerConfig!
+[15:24:23.708] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[15:24:23.710] [INF] Loading world with seed TCCBIBZXAB
+[15:24:23.720] [DBG] Event Triggerer started!
+[15:24:23.860] [INF] Server is listening on port 11000 UDP
+[15:24:23.860] [INF] Using PROTOBUF as save file serializer
+[15:24:23.862] [INF] Server Password: "**********************"
+[15:24:23.863] [INF] Admin Password: "**************"
+[15:24:23.863] [INF] Autosave: ENABLED (2 min)
+[15:24:23.863] [INF] World GameMode: SURVIVAL
+[15:24:23.865] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[15:24:23.865] [INF] Server has paused
+[15:24:23.865] [INF] Server is waiting for players!
+[15:24:23.866] [INF] To get help for commands, run help in console or /help in chatbox
+[15:25:46.004] [INF] Server port (11000) has been automatically opened on your router
+[15:28:48.880] [INF] Exiting ...
+[15:28:48.881] [INF] Nitrox Server Stopping...
+[15:28:48.909] [INF] World state saved.
+[15:28:48.924] [INF] Nitrox Server Stopped
+[15:28:54.328] [INF] Using game files from: D:\Subnautica
+[15:28:56.793] [WRN] Property or field lue does not exist on type NitroxServer.Serialization.ServerConfig!
+[15:28:56.899] [ERR] Could not load world, creating a new one: System.IO.InvalidDataException: Save files are not valid
+   at NitroxServer.Serialization.World.WorldPersistence.LoadFromFile(String saveDir) in D:\GitHub\Nitrox\NitroxServer\Serialization\World\WorldPersistence.cs:line 98
+[15:28:56.901] [INF] Loading world with seed TCCBIBZXAB
+[15:28:56.910] [DBG] Event Triggerer started!
+[15:28:57.050] [INF] Server is listening on port 11000 UDP
+[15:28:57.050] [INF] Using PROTOBUF as save file serializer
+[15:28:57.051] [INF] Server Password: "**********************"
+[15:28:57.053] [INF] Admin Password: "**************"
+[15:28:57.053] [INF] Autosave: ENABLED (2 min)
+[15:28:57.053] [INF] World GameMode: SURVIVAL
+[15:28:57.054] [INF] Loaded save
+
+ - Save location: D:\GitHub\Nitrox\NitroxLauncher\bin\Debug\world
+ - Radio messages stored: 0
+ - Story goals completed: 0
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[15:28:57.055] [INF] Server has paused
+[15:28:57.055] [INF] Server is waiting for players!
+[15:28:57.055] [INF] To get help for commands, run help in console or /help in chatbox
+[15:29:14.491] [INF] Exiting ...
+[15:29:14.492] [INF] Nitrox Server Stopping...
+[15:29:14.515] [INF] World state saved.
+[15:29:14.532] [INF] Nitrox Server Stopped
