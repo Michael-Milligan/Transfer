@@ -524,7 +524,7 @@
       "Jump": ["Space"],
       "Throw": ["T"],
       "Inventory": ["Escape"],
-      "Grapple": ["Mouse4"],
+      "Grapple": ["E"],
       "SmartSelect": ["LeftShift"],
       "SmartCursor": ["LeftControl"],
       "QuickMount": ["R"],
